@@ -1,0 +1,12 @@
+Feature,Importance
+planet_radius_earth,0.4033408270443717
+stellar_flux_earth,0.31705265111205233
+surface_temperature_K,0.22868178079804732
+planet_mass_earth,0.02348248397823891
+distance_light_years,0.007006714720725549
+orbital_period_days,0.005914874859265361
+star_temperature_K,0.0047365629700476496
+planet_age_gigayears,0.004292928993308939
+stellar_radius_solar,0.002381553097509986
+stellar_metallicity,0.0019113032741643178
+stellar_mass_solar_masses,0.0011983191522680402
