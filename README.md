@@ -14,6 +14,8 @@ This project explores the relationship between planetary and stellar characteris
 
 ![Exoplanet Habitability Dashboard](images/exoplanet_dashboard.png)
 
+**Published Dashboard Link:** "https://app.powerbi.com/groups/me/reports/592b8832-4c58-46cc-96cc-c46a030c9064/6b22de2359609099ae82?experience=power-bi"
+
 ## Research Problem
 
 As the number of discovered exoplanets grow, researches need efficient methods to identify potentially habitable planets and perhaps discover life on other worlds. This project examines which planetary and stellar features contribute most to Earth-like conditions and develops predictive machine learning models to predict ESI.
