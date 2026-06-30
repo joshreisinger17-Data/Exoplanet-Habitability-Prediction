@@ -95,4 +95,4 @@ Feature importance analysis identified the following characteristics as predicto
 
 Joshua Reisinger
 
-Aspiring Data Analyst/Scientist and Machine Learning Practitioner
+Aspiring Data Engineer and Data Scientist | Machine Learning and Data Analytics
