@@ -14,7 +14,9 @@ This project explores the relationship between planetary and stellar characteris
 
 ![Exoplanet Habitability Dashboard](images/exoplanet_dashboard.png)
 
-**Published Dashboard Link:** "https://app.powerbi.com/groups/me/reports/592b8832-4c58-46cc-96cc-c46a030c9064/6b22de2359609099ae82?experience=power-bi"
+### Dashboard Access
+
+The interactive Power BI report was originally hosted through a WGU workspace and is no longer publicly accessible. The complete dashboard '.pbix' file is included in this repository to access in Microsoft Power BI.
 
 ## Research Problem
 
